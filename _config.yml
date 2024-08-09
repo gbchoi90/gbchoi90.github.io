@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "GB's Blog"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "verson 1.0"
 name                     : "gbchoi"
 description              : "An amazing website."
 url                      : "https://gbchoi90.github.io"
